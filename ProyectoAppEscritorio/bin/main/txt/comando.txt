@@ -1,0 +1,2 @@
+sudo docker run --name LAMP --restart=always -p "80:80" -v
+/home/ubuntu/app:/app mattrayner/lamp:latest-1804

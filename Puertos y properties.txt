@@ -1,0 +1,6 @@
+PORT=3306
+BBDD=GestorFichajes
+USER=admin
+PWD=72Vgjo0HuuXA 
+
+Lo he copiado del fichero properties que esta en la carpeta de resources
